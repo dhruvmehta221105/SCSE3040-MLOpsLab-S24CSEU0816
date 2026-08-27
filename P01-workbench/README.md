@@ -101,3 +101,10 @@ this course is built on top of that.
 
 *Open `P01.ipynb` in Jupyter and work through it top to bottom.
 The notebook contains everything in this handout, plus the code.*
+
+## AI Assistance Disclosure
+
+AI assistance was used during Practical 01 for understanding the setup instructions,
+troubleshooting environment issues, and debugging the practical tasks. The submitted
+work was reviewed, executed, and verified by the student, including the final 7/7
+self-check.
