@@ -100,3 +100,10 @@ minutes were we off by? It is in minutes, so anyone can understand it.
 
 *Open `P02.ipynb` in Jupyter and work through it top to bottom.
 The notebook contains everything in this handout, plus the code.*
+
+## AI Assistance
+
+I used ChatGPT to help understand the practical instructions,
+debug errors, and review/implement parts of the TODO tasks.
+I reviewed and tested the submitted code myself and can explain
+and modify the work submitted.

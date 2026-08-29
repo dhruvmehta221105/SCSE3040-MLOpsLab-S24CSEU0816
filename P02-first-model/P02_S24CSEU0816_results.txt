@@ -1,0 +1,5 @@
+P02 Results — S24CSEU0816
+
+Mean baseline MAE    : 10.3181
+Median baseline MAE  : 10.3317
+Linear Regression MAE: 1.9247

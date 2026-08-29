@@ -1,0 +1,2 @@
+The 70/30 split with random_state=7 did not change my conclusion because the same model/baseline remained better.
+This shows that a single train/test split is useful but should not be fully trusted because the measured MAE can change with a different split.
